@@ -1,12 +1,1 @@
 python-3.11
-```
-
-This forces Streamlit Cloud to use Python 3.11 (which is compatible with MediaPipe).
-
-**Your project structure:**
-```
-your_project_folder/
-│
-├── hand_gesture_app.py       # Main app
-├── requirements.txt           # Updated dependencies (no version numbers)
-└── runtime.txt                # Python version specification
